@@ -1,0 +1,23 @@
+{
+  "name": "friendfinderhw",
+  "version": "1.0.0",
+  "description": "ff hw",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RLslime/friendfinderhw.git"
+  },
+  "keywords": [
+    "hw"
+  ],
+  "author": "shane collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RLslime/friendfinderhw/issues"
+  },
+  "homepage": "https://github.com/RLslime/friendfinderhw#readme"
+}
