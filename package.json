@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/RLslime/friendfinderhw/issues"
   },
-  "homepage": "https://github.com/RLslime/friendfinderhw#readme"
+  "homepage": "https://github.com/RLslime/friendfinderhw#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
 }
